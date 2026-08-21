@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rehanking944994-hash.github.io/THEPARKSOF-I-R-O-P/sitemap.xml
